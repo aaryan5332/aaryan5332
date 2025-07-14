@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Backend Development, Django, Spring Boot, LangChain, Cloud Infra (AWS/GCP)**
 
-- 📫 How to reach me **aaryanmarar28@gmail.com**
+- 📫 How to reach me **aaryanmarar32@gmail.com**
 
 - ⚡ Fun fact **I debug errors faster when I explain them out loud to an imaginary rubber duck 🦆**
 
